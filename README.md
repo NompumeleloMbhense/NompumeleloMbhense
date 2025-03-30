@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NompumeleloMbhense
-- 👀 I’m interested in c# full stack development 
-- 🌱 I’m currently learning C#,  html, css and javascript
-- 💞️ I’m looking to collaborate on full stack projects
+- 👀 I’m interested in Game Development(Unity XR, C#), .NET Development, Full Stack Development
+- 🌱 I’m currently learning web development and .NET development
+- 💞️ I’m looking to collaborate on  Unity XR projects, .NET applications, and Full Stack web development.
 - 📫 How to reach me at nsmbhense6@gmail.com
 
 <!---
